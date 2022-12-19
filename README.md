@@ -16,10 +16,13 @@ Yapılan ödevler , açıklamaları ve katkılar aşağıdaki gibidir. Ödev ad�
 |Ödev | Amaç | Klasör |  
 |-|-|-|
 | Ödev 1 | 8 düğümlü bir ağda paket gönderimi  |  | 
-| Ödev 2 | Çizgi Topolojisine Sahip Tipik Bir Kablosuz Sensör Ağında Network Paketleri Gönderimi/Alımı Uygulaması | Pek yakında | 
-| Ödev 3 | Bilinmiyor | | 
+| Ödev 2 | Çizgi Topolojisine Sahip Tipik Bir Kablosuz Sensör Ağında Network Paketleri Gönderimi/Alımı Uygulaması | [Odev-2](https://github.com/Pilestin/Computer-Network-with-ContikiNG/tree/master/Odev-2) | 
+| Ödev 3 | Bilinmiyor | [Odev-3](https://github.com/Pilestin/Computer-Network-with-ContikiNG/tree/master/Odev-3) | 
 
 
 ## Ödevin  detaylı raporunu Notion üzerinden okumak için : (OSMAN BEY İZİN VERİRSE)
 
-# 
+## Amaç : 
+
+İlk ödev kapsamında amacımız ağ içerisinde son düğüme bir paket gönderip , bu düğümden yapılan belli kontrole göre yeniden paket almaktı.
+Bu 
