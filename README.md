@@ -7,9 +7,9 @@ Ders kapsamında Contiki-ng işletim sistemi görülmüş olup içerisinde bulun
 
 | Grup Üyeleri    | Katkıları | Github | 
 |-----------------|-----------|--------|
-| Osman Büyükşar  | Herşey    | [<image style="width:30px" src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png">](https://github.com/OsmanBuyuksar) |   
-| Kadir Emre Özer | Bilinmiyor| [<image style="width:30px" src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png">](https://github.com/logaritmabir)  |  
-| Yasin Ünal      | Hiçbirşey | [<image style="width:30px" src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png">](https://github.com/Pilestin) |   
+| Osman Büyükşar  | Node'ların kodlanması ,  RPL , Client-Server , NETSTACK_ROUTİNG , callback function,    | [<image style="width:30px" src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png">](https://github.com/OsmanBuyuksar) |   
+| Kadir Emre Özer | Dökümantasyon araştırılması , Algoritmanın tasarımı , client-server | [<image style="width:30px" src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png">](https://github.com/logaritmabir)  |  
+| Yasin Ünal      | Dökümantasyon oluşturma, Proje yönetim , client-server , ara düğümler  | [<image style="width:30px" src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png">](https://github.com/Pilestin) |   
 
 
 ## Ödevler Tablosu 
