@@ -1,5 +1,6 @@
 # Ödev 3 - RPL Algoritmasının Farklı Link Kriterlerine Göre Çalıştırılması
 
+<!-- 
 
 | Grup Üyeleri    | Katkıları | Github | 
 |-----------------|-----------|--------|
@@ -9,9 +10,12 @@
 | Berkin Aker      | -  |    |   
 | Muharrem Sevimli | -  |    |   
 | Furkan Kaymak    | -  |    |   
+
+-->
+
   
   
-# RPL Nedir
+## RPL Nedir
 
 RPL IPv6 kullanan bir ağ yönlendirme protokolüdür. İsmi, “ripple” yani dalgalanmadan gelir. RPL veri yapısı olarak DAG veya DODAG yapısını kullanır. Ağın oluşumu kök düğüm tarafından başlatılır. 
 
