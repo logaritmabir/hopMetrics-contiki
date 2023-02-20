@@ -3,6 +3,8 @@ BIL401 - Bilgisayar Ağları
 
 Bu depo "BIL401-Bilgisayar Ağları" dersi kapsamında kuramsal bilgisayar ağları bilgisinin Contiki işletim sistemi içerisinde Cooja emülatörü ile gerçeklenmesine dair kod parçaları içermektedir.  
 
+This repository contains of some codes about routing a package in DODAG network that learned at "BIL401-Computer Networks" course via Contiki OS.
+
 ## Çalışma 2 : Sınır düğümle haberleşmek üzere basit bir ağ yapısı   
 
 Çalışmada katkı gösteren kişiler ve katkıları;  
