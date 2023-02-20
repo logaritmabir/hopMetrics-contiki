@@ -5,11 +5,15 @@ Ders kapsamında Contiki-ng işletim sistemi görülmüş olup içerisinde bulun
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FPilestin%2FComputer-Network-with-ContikiNG&count_bg=%2327371B&title_bg=%23D05656&icon=rte.svg&icon_color=%233D3535&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
+
 | Grup Üyeleri    | Katkıları | Github | 
 |-----------------|-----------|--------|
-| Osman Büyükşar  | Node'ların kodlanması ,  RPL , Client-Server , NETSTACK_ROUTİNG , callback function,    | [<image style="width:30px" src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png">](https://github.com/OsmanBuyuksar) |   
-| Kadir Emre Özer | Dökümantasyon araştırılması , Algoritmanın tasarımı , client-server | [<image style="width:30px" src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png">](https://github.com/logaritmabir)  |  
-| Yasin Ünal      | Dökümantasyon oluşturma, Proje yönetim , client-server , ara düğümler  | [<image style="width:30px" src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png">](https://github.com/Pilestin) |   
+| Yasin Ünal      | Ödev 2, Ödev 3   | [<image style="width:30px" src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png">](https://github.com/Pilestin) |   
+| Osman Büyükşar  | Ödev 2, Ödev 3   | [<image style="width:30px" src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png">](https://github.com/OsmanBuyuksar) |   
+| Kadir Emre Özer | Ödev 2, Ödev 3   | [<image style="width:30px" src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png">](https://github.com/logaritmabir)  |  
+| Berkin Aker      | Ödev 3  |    |   
+| Muharrem Sevimli | Ödev 3  |    |   
+| Furkan Kaymak    | Ödev 3  |    |   
 
 
 ## Ödevler Tablosu 
