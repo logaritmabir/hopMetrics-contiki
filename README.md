@@ -1,7 +1,7 @@
 # Computer-Network-with-ContikiNG
-BIL401 - Bilgisayar Ağları
+### BIL401 - Bilgisayar Ağları
 
-Bu depo "BIL401-Bilgisayar Ağları" dersi kapsamında kuramsal bilgisayar ağları bilgisinin Contiki işletim sistemi içerisinde Cooja emülatörü ile gerçeklenmesine dair kod parçaları içermektedir.  
+Bu depo "BIL401-Bilgisayar Ağları" dersi kapsamında, bilgisayar ağları bilgisinin Contiki İşletim Sistemi içerisinde Cooja emülatörü ile gerçeklenmesine dair kod parçaları içermektedir.  
 
 ## Çalışma 2 : Sınır düğümle haberleşmek üzere basit bir ağ yapısı   
 
