@@ -1,29 +1,20 @@
 # Computer-Network-with-ContikiNG
 BIL401 - Bilgisayar Ağları
 
-Bu depo "BIL401-Bilgisayar Ağları" dersi kapsamında kuramsal bilgisayar ağları bilgisinin Contiki işletim sistemi içerisinde Cooja emülatörü ile gerçeklenmesine dair kod parçaları içermektedir. 
+Bu depo "BIL401-Bilgisayar Ağları" dersi kapsamında kuramsal bilgisayar ağları bilgisinin Contiki işletim sistemi içerisinde Cooja emülatörü ile gerçeklenmesine dair kod parçaları içermektedir.
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FPilestin%2FComputer-Network-with-ContikiNG&count_bg=%2327371B&title_bg=%23D05656&icon=rte.svg&icon_color=%233D3535&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+Çalışma 2 : Sınır düğümle haberleşmek üzere basit bir ağ yapısı 
+Çalışmada katkı gösteren kişiler ve katkıları;
 
+Kadir Emre Özer : Ağın kurulması için hangi düğüm tiplerinin kullanılabileceği ve DODAG yapısının nasıl oluşturulacağı.
+Yasin Ünal : Sınır düğüme gönderilecek paketin oluşturulup ağa gönderilmesi.
+Osman Büyükşar : Sınır düğüme gönderilmiş paketin içeriğinin değerlendirilmesi ve paketi gönderen düğüme cevap gönderilmesi.
 
-| Grup Üyeleri    | Katkıları | Github | 
-|-----------------|-----------|--------|
-| Yasin Ünal      | Ödev 2, Ödev 3   | [<image style="width:30px" src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png">](https://github.com/Pilestin) |   
-| Osman Büyükşar  | Ödev 2, Ödev 3   | [<image style="width:30px" src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png">](https://github.com/OsmanBuyuksar) |   
-| Kadir Emre Özer | Ödev 2, Ödev 3   | [<image style="width:30px" src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png">](https://github.com/logaritmabir)  |  
-| Berkin Aker      | Ödev 3  |    |   
-| Muharrem Sevimli | Ödev 3  |    |   
-| Furkan Kaymak    | Ödev 3  |    |   
+Çalışma 3 : Bir DODAG ağ yapısında gönderilecek paketin "En Az Zıplama" ve "Sinyal Gücü (RSSI)" değişkenlerine göre RPL algoritmasının düzenlenmesi
 
-
-## Ödevler Tablosu 
-Yapılan ödevler , açıklamaları ve katkılar aşağıdaki gibidir. Ödev adına tıklayarak ilgili klasöre ulaşabilirsiniz.
-
-|Ödev | Amaç | Klasör |  
-|-|-|-|
-| Ödev 1 | 8 düğümlü bir ağda paket gönderimi  |  | 
-| Ödev 2 | Çizgi Topolojisine Sahip Tipik Bir Kablosuz Sensör Ağında Network Paketleri Gönderimi/Alımı Uygulaması | [ Odev-2 ](https://github.com/Pilestin/Computer-Network-with-ContikiNG/tree/master/Odev-2) | 
-| Ödev 3 | RPL Algoritmasının Farklı Link Kriterlerine Göre Çalıştırılması | [ Odev-3 ](https://github.com/Pilestin/Computer-Network-with-ContikiNG/tree/master/Odev-3) | 
-
-
-## Ödevin  detaylı raporunu Notion üzerinden okumak için : (OSMAN BEY İZİN VERİRSE)
+Kadir Emre Özer : RSSI protokolünün incelenmesi,Contiki içerisinde nasıl gerçekleştirilebileceği,RPL algoritmasının fonksiyonlarının araştırılması
+Yasin Ünal : Çalışmanın yönetilmesi,RSSI kriterinin araştırılması,ağa katılan yeni bir düğümün ağa göndereceği mesajların araştırılması (DIO,DIS)
+Osman Büyükşar : En Az Zıplama protokolünün gerçekleştirilmesi
+Berkin Aker : Contiki işletim sisteminin dokümantasyonunun incelenmesi,RPL algoritmasının fonksiyonlarının araştırılması.
+Muharrem Sevimli : RPL algoritmasının çalışma mantığının incelenmesi
+Furkan Kaymak : Contiki işletim sisteminin dokümantasyonunun incelenmesi.
