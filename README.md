@@ -7,7 +7,9 @@ Bu depo "BIL401-Bilgisayar Ağları" dersi kapsamında kuramsal bilgisayar ağla
 
 Çalışmada katkı gösteren kişiler ve katkıları;  
 <strong>Kadir Emre Özer : Ağın kurulması için hangi düğüm tiplerinin kullanılabileceği ve DODAG yapısının nasıl oluşturulacağı. </strong>  
+
 <strong> Yasin Ünal : Sınır düğüme gönderilecek paketin oluşturulup ağa gönderilmesi. </strong> 
+
 <strong> Osman Büyükşar : Sınır düğüme gönderilmiş paketin içeriğinin değerlendirilmesi ve paketi gönderen düğüme cevap gönderilmesi. </strong> 
 
 
