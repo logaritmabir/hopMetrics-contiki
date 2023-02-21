@@ -19,7 +19,7 @@ Bu depo "BIL401-Bilgisayar Ağları" dersi kapsamında, bilgisayar ağları bilg
 Çalışmada katkı gösteren kişiler ve katkıları;  
 
 |     Kişiler      |                                                                Katkıları                                                               |
-|:----------------:|:--------------------------------------------------------------------------------------------------------------------------------------:|
+|----------------|--------------------------------------------------------------------------------------------------------------------------------------|
 | Yasin Ünal       | Çalışmanın yönetilmesi, RSSI kriterinin araştırılması, ağa katılan yeni bir düğümün ağa göndereceği mesajların araştırılması (DIO,DIS) |
 | Kadir Emre Özer  | RSSI protokolünün incelenmesi, Contiki içerisinde nasıl gerçekleştirilebileceği, RPL algoritmasının fonksiyonlarının araştırılması     |
 | Osman Büyükşar   | En Az Zıplama protokolünün gerçekleştirilmesi                                                                                          |
